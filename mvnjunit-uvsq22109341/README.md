@@ -1,5 +1,7 @@
 # TP Maven-JUnit
-
+# SEDJAL
+# ABDELGHANI
+# Groupe1
 Pour cet exercice, on veut implémenter une classe immuable Fraction qui représente un nombre rationnel.
 Un exemple d’interface pour une telle classe est donné par la classe [`Fraction`](https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/fraction/Fraction.html) de la bibliothèque [Apache Commons Math](https://commons.apache.org/proper/commons-math/).
 
